@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bank-hack-prank/static/css/main.1f2d5098.css",
+    "main.js": "/bank-hack-prank/static/js/main.ec574144.js",
+    "index.html": "/bank-hack-prank/index.html",
+    "main.1f2d5098.css.map": "/bank-hack-prank/static/css/main.1f2d5098.css.map",
+    "main.ec574144.js.map": "/bank-hack-prank/static/js/main.ec574144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2d5098.css",
+    "static/js/main.ec574144.js"
+  ]
+}
