@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bank-hack-prank/static/css/main.1cebaad7.css",
-    "main.js": "/bank-hack-prank/static/js/main.925483fd.js",
+    "main.css": "/bank-hack-prank/static/css/main.07950126.css",
+    "main.js": "/bank-hack-prank/static/js/main.b188c150.js",
     "index.html": "/bank-hack-prank/index.html",
-    "main.1cebaad7.css.map": "/bank-hack-prank/static/css/main.1cebaad7.css.map",
-    "main.925483fd.js.map": "/bank-hack-prank/static/js/main.925483fd.js.map"
+    "main.07950126.css.map": "/bank-hack-prank/static/css/main.07950126.css.map",
+    "main.b188c150.js.map": "/bank-hack-prank/static/js/main.b188c150.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cebaad7.css",
-    "static/js/main.925483fd.js"
+    "static/css/main.07950126.css",
+    "static/js/main.b188c150.js"
   ]
 }
