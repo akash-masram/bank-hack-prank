@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+# 💳 Bank Account Hack Prank
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fun and harmless prank React application that simulates a bank account hack. The app displays a series of fake security alerts, creating a realistic scenario where users feel their account has been compromised.
 
-## Available Scripts
+## 🌐 Demo
 
-In the project directory, you can run:
+You can view the live demo [here](https://akash-masram.github.io/bank-hack-prank/).
 
-### `npm start`
+## 📚 Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📜 [Features](#✨-features)
+- 🛠️ [Tech Stack](#🛠️-tech-stack)
+- ⚙️ [Getting Started](#🚀-getting-started)
+- 🖥️ [Running the App Locally](#🏃‍♂️-running-the-app-locally)
+- 📦 [Building for Production](#📦-building-for-production)
+- 🌍 [Deploying to GitHub Pages](#🌍-deploying-to-github-pages)
+- 🎨 [Customization](#🎨-customization)
+- 📝 [Usage Instructions](#📝-usage-instructions)
+- 🤝 [Contributing](#🤝-contributing)
+- 🙏 [Acknowledgments](#🙏-acknowledgments)
+- 📫 [Contact](#📫-contact)
+- 🚧 [Known Issues / Roadmap](#🚧-known-issues--roadmap)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Simulates a loading screen for 3 seconds before displaying the hacked state.
+- Displays fake alerts indicating unauthorized access to the bank account.
+- Responsive design using **Tailwind CSS** for a better user experience.
 
-### `npm run build`
+## 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **JavaScript**: The programming language used to create the app.
+- **Node.js**: JavaScript runtime for server-side operations.
+- **npm**: Package manager for managing dependencies.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Getting Started
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/akash-masram/bank-hack-prank.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+2. Navigate into the project directory:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+`cd bank-hack-prank`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Install the dependencies:
 
-### Code Splitting
+`npm install`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🏃‍♂️ Running the App Locally
+To start the development server, run:
 
-### Analyzing the Bundle Size
+`npm start`
+Then open your browser and go to `**http://localhost:3000.**`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📦 Building for Production
+To create a production build of your application, run:
 
-### Making a Progressive Web App
+`npm run build`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🌍 Deploying to GitHub Pages
+Make sure you have the gh-pages package installed:
 
-### Advanced Configuration
+`npm install gh-pages --save-dev`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+Deploy your app:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+`npm run deploy`
 
-### `npm run build` fails to minify
+## 🎨 Customization
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can modify the messages and alerts in the `src/App.js` file to personalize the prank further.
+
+## 📝 Usage Instructions
+
+1. Once the app is running, wait for the loading screen to complete.
+2. Observe the fake security alerts that will pop up.
+3. Have fun with friends, but remember to inform them that it’s just a prank afterward!
+
+## 🤝 Contributing
+
+If you’d like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Open a pull request.
+
+
+
+## 🙏 Acknowledgments
+React
+
+Tailwind CSS
+
+## 📫 Contact
+
+For any questions or suggestions, feel free to reach out to me on GitHub: [Akash Masram](https://github.com/akash-masram).
+
